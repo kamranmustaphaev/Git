@@ -1,1 +1,12 @@
-new file
+1 git restore file-name
+
+2 git restore --h
+
+3 git revert , git reset
+
+4 git checkout -b branch-name
+
+5 Fast-forward merge не создает новый коммит слияния, и история изменений остается линейной.
+  Non-fast-forward merge создает новый коммит слияния и делает историю изменений нелинейной
+
+6 git branch -d branch_name 
